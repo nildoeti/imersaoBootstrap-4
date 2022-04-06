@@ -1,3 +1,23 @@
-body {
-    background: red;
+.p1 {
+    background-color: rgb(102, 177, 107);
+}
+
+.p2 {
+    background-color: rgb(231, 194, 66);
+}
+
+.p3 {
+    background-color: rgb(49, 161, 191);
+}
+
+.p4 {
+    background-color: rgb(167, 199, 200);
+}
+
+.p5 {
+    background-color: rgb(242, 159, 156);
+}
+
+.p6 {
+    background-color: rgb(227, 196, 99);
 }
